@@ -59,11 +59,6 @@ Final-year Computer Engineering student at TED University, building AI systems t
   <img src="https://streak-stats.demolab.com?user=egekaraca&theme=dark&hide_border=true" height="170" alt="GitHub streak stats" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=egekaraca&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egekaraca&layout=compact&theme=dark&hide_border=true" height="170" alt="Top languages" />
-</p>
-
 ---
 
 ### 📫 Reach me
