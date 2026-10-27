@@ -47,9 +47,9 @@ Final-year Computer Engineering student at TED University, building AI systems t
 
 ### 🌱 Currently
 
-- Interning at **Bilişim A.Ş.** on the BilişimBI team
 - Finishing my senior design project, **ATLAS**
-- Co-authoring a paper on an AI-driven platform for teaching LLMs to software engineering students
+- Working on improving **TaskTomo**
+- Building an AI Agent for Formula 1 fans & people who work in the Formula scene.
 
 ---
 
