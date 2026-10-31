@@ -40,8 +40,8 @@ Final-year Computer Engineering student at TED University, building AI systems t
 | Project | What it is | Built with |
 |---|---|---|
 | [**TaskTomo**](https://github.com/egekaraca/tasktomo) | AI-assisted study app, live on the [App Store](https://apps.apple.com/app/id6760112507) and [Google Play](https://play.google.com/store/apps/details?id=com.tasktomo.studyapp) | React Native, Firebase, Claude API |
-| [**ATLAS**](https://github.com/egekaraca/atlas) | Fully offline, Turkish-language RAG assistant for air-gapped environments (senior design project) | Aya Expanse 8B, Ollama, Qdrant, Flask |
-| [**COMPOUND**](https://github.com/USERNAME/compound) | F1 race strategy decision support: tire degradation modeling and a Monte Carlo pit window optimizer | Python, FastF1, OpenF1 |
+| [**ATLAS**](https://github.com/egekaraca/atlas) | Fully offline, Turkish-language RAG assistant for air-gapped environments (senior design project) | PostgreSQL, pgvector, Ollama |
+| [**PITWALL**](https://github.com/USERNAME/compound) |  Pitwall is an AI-powered Formula 1 Q&A site that answers questions about any race since 1950 straight from the records, and replays the action in 3D when it helps. | Python, FastF1, Next.js |
 
 ---
 
